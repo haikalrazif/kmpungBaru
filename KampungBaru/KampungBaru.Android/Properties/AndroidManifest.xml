@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionName="1.1" package="com.companyname.kampungbaru" android:installLocation="auto" android:versionCode="1">
+	<uses-sdk android:minSdkVersion="21" android:targetSdkVersion="28" />
+	<application android:label="KampungBaru">
+		<meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyC7SXP-1i085w01alfJn-kDbq56Hy4eYEg" />
+	</application>
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+	<uses-permission android:name="android.permission.LOCATION_HARDWARE" />
+	<uses-permission android:name="android.permission.INSTALL_LOCATION_PROVIDER" />
+	<uses-permission android:name="android.permission.CONTROL_LOCATION_UPDATES" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-feature android:name="android.hardware.location" android:required="false" />
+  <uses-feature android:name="android.hardware.location.gps" android:required="false" />
+  <uses-feature android:name="android.hardware.location.network" android:required="false" />
+</manifest>

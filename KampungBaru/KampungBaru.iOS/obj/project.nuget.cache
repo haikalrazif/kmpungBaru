@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "AV96qD/+FNOG4RXUI7tgQIV/Quw9FVJWFGTcnzvBjGGcQ+M3gbKsyw+9fY1ciC4JWBU/xapNxkzPISXz38UFtA==",
+  "success": true,
+  "projectFilePath": "D:\\KampungBaru\\KampungBaru.iOS\\KampungBaru.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nova\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\Nova\\.nuget\\packages\\xamarin.forms\\4.8.0.1269\\xamarin.forms.4.8.0.1269.nupkg.sha512",
+    "C:\\Users\\Nova\\.nuget\\packages\\xamarin.forms.maps\\4.8.0.1269\\xamarin.forms.maps.4.8.0.1269.nupkg.sha512",
+    "C:\\Users\\Nova\\.nuget\\packages\\xamarin.forms.pancakeview\\2.1.0.714\\xamarin.forms.pancakeview.2.1.0.714.nupkg.sha512"
+  ],
+  "logs": []
+}
